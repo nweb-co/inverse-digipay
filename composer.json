@@ -10,12 +10,12 @@
         "payment",
         "digipay"
     ],
-    "homepage": "https://github.com/saalid/omnipay-digipay",
+    "homepage": "https://github.com/nweb-co/inverse-digipay",
     "license": "MIT",
     "authors": [
         {
-            "name": "Amirreza Salari",
-            "email": "amirrezasalari1997@gmail.com"
+            "name": "Amir Niknami",
+            "email": "amirnweb@gmail.com"
         }
     ],
     "autoload": {
